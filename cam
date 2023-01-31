@@ -1,3 +1,6 @@
+getgenv().key = "Q"
+getgenv().alpha = 0.5
+
 loadstring("loadstring("
 )if not game:IsLoaded() then
 	game.Loaded:Wait()
